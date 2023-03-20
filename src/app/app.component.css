@@ -1,0 +1,10 @@
+ion-card-header.ios {
+    display: flex;
+    flex-flow: column-reverse;
+    /* position : fixed; */
+}
+
+ion-card-header.ios {
+    display: flex;
+    flex-flow: column-reverse;
+  }
